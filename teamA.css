@@ -1,0 +1,38 @@
+.brand-logo img{
+    height: 60px;
+    width: 80px;
+    margin-top: 5%;
+}
+
+#riyad img{
+  height: 500px;
+}
+
+#dila2{
+  height: 500px;
+}
+
+.huruf h4{
+  margin-top: 10%;
+}
+
+.huruF h4{
+  margin-top: 10%;
+}
+
+.gambar{
+  height: 200px;
+  width: 200px;
+}
+
+#buton{
+  margin-left: 25%;
+  margin-bottom: 3%;
+  background-color: #F5DE00;
+  text-align: center;
+}
+
+
+#footer{
+  margin-top: 3%;
+}
